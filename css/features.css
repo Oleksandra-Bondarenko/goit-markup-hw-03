@@ -1,12 +1,10 @@
 .features-container {
     display: flex;
-    justify-content: space-between;
     gap: 24px;
-    padding-left: 0;
 }
 
 .features-container-item {
-    max-width: 264px;
+    flex-basis: 264px;
 }
 
 .feature-name {
