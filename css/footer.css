@@ -1,13 +1,6 @@
 .footer {
     background: #2E2F42;
-}
-
-.footer-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
+    padding: 100px 0;
 }
 
 .footer-logo {
@@ -17,4 +10,14 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
+    margin-bottom: 16px;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    width: 264px;
 }

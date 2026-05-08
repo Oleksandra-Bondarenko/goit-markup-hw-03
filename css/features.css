@@ -1,0 +1,14 @@
+.features-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    padding-left: 0;
+}
+
+.features-container-item {
+    max-width: 264px;
+}
+
+.feature-name {
+    margin-bottom: 8px;
+}
